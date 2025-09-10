@@ -5,6 +5,6 @@ To run these projects, copy all files (except for the About.md) from the project
 
 ## Pictures
 
-![Image](https://github.com/user-attachments/assets/af4d10c2-c67b-4624-9dd6-e4026ac2c492)
+https://github.com/user-attachments/assets/af4d10c2-c67b-4624-9dd6-e4026ac2c492
 
 ![Image](https://github.com/user-attachments/assets/34109e61-92fc-494d-92b1-093ba6a02f52)
