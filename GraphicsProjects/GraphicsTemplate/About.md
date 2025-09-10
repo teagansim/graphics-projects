@@ -3,7 +3,7 @@ This code is the "starter code", the basic template that acts as the backbone of
 
 To run the template, download all files in the GraphicsTemplateCode folder. Inside the folder, open the file "sample.sln". It is recommended to open the project with Visual Studio 2022. Go to "Build -> Build Solution", then "Debug -> Start Without Debugging". A window should appear with the project results.
 
-To run the various projects, copy all files (except for the About.md) from that folder to the downloaded GraphicsTemplateCode. Replace any files if prompted. Open the solution, build, and run as normal.
+To run these projects, copy all files (except for the About.md) from the project folder to the downloaded GraphicsTemplateCode. Replace any files if prompted. Open the solution, build, and run as normal.
 
 ## Pictures
 The cube that acts as the "standard" for the template. The project also includes a perspective and an orthographic view.
