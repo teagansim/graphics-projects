@@ -1,0 +1,3 @@
+Y:\CS550\Sample2022\Debug\Sample.exe
+C:\Users\teaga\OneDrive\Desktop\Graphics projects\Template\Debug\Sample.exe
+C:\Users\teaga\OneDrive\Desktop\Graphics projects\GraphicsProjects\GraphicsTemplate\GraphicsTemplateCode\Debug\Sample.exe

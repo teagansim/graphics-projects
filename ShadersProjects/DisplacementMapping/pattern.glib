@@ -1,0 +1,19 @@
+##OpenGL GLIB
+Perspective 70.
+LookAt 0 0 3  0 0 0  0 1 0
+
+Vertex		pattern.vert
+Fragment	pattern.frag
+Program		sample					                    \
+		        uA <0. .2 1.>				            \
+		        uP <.1 1. 4.>				            \
+                uKa <0. 0.1 1.0>                        \
+                uKd <0. 0.6 1.0>                        \
+                uKs <0. 0.3 1.0>                        \
+                uShininess <1. 10. 100.>                \
+                uLightX <-20. 5. 20.>                   \
+                uLightY <-20. 10. 20.>                  \
+                uLightZ <-20. 20. 20.> 
+
+QuadXY  0.  1.  128  128
+

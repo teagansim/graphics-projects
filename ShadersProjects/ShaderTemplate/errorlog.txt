@@ -1,0 +1,4 @@
+
+0(30) : error C7011: implicit cast from "vec4" to "vec3"
+0(53) : error C7011: implicit cast from "vec4" to "vec3"
+

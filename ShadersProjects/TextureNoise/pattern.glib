@@ -1,0 +1,23 @@
+##OpenGL GLIB
+Perspective 70
+LookAt 0 0 3  0 0 0  0 1 0
+
+
+Vertex   pattern.vert
+Fragment pattern.frag
+Program  sample			        	\
+        uKa <0.1 0.1 0.5>           \
+        uKd <0.1 0.6 1.>            \
+        uKs <0.1 0.3 1.>            \
+        uShininess <1. 10. 25.>     \
+        uAd <.01 .05 .5>		    \
+	    uBd <.01 .05 .5> 		    \
+        uTol <0. 0. 1.>			    \
+        uNoiseAmp <0. 0. 1.>		\
+	    uNoiseFreq <0. 1. 10.>
+
+
+#Obj spaceship.obj
+Sphere 1 50 50
+#Torus  1.  .3  64 64
+#Teapot
