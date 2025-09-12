@@ -1,7 +1,7 @@
 ## What this is
 In this project a basic object is drawn using simple shapes in OpenGL. I chose to draw a hammer, based on a hammer model in Final Fantasy 14, one of my favorite games. This model mirrors the shape of the hammer, which is a rather simple design. There is no lighting in this scene, using flat colors on the object instead. I chose to use colors reminiscent of ace pride. The end result is a very simple object, but not a bad result for a first attempt.
 
-To run these projects, copy all files (except for the About.md) from the project folder to the downloaded GraphicsTemplateCode. Replace any files if prompted. Open the solution, build, and run as normal.
+To run these projects, copy all files (except for the About.md) from the project folder to the downloaded GraphicsTemplateCode. Replace any files if prompted. Open the solution, build (or rebuild with "Rebuild Solution", as necessary), and run as normal.
 
 ## Pictures
 

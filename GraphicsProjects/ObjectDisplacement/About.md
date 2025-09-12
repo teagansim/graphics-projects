@@ -1,7 +1,7 @@
 ## What this is
 In this project, I move the blades of a helicopter to practice displacement. The body of the helicopter is a premade object, and the rotors are simply triangles stretched and squished to look like helicopter blades. From there, the actual magic comes from a careful combination of translation and rotation for each pair of blades. The end result is a fairly convincing helicopter animation, though even calling it an "animation" is a bit misleading, given how simple the time component is.
 
-To run these projects, copy all files (except for the About.md) from the project folder to the downloaded GraphicsTemplateCode. Replace any files if prompted. Open the solution, build, and run as normal.
+To run these projects, copy all files (except for the About.md) from the project folder to the downloaded GraphicsTemplateCode. Replace any files if prompted. Open the solution, build (or rebuild with "Rebuild Solution", as necessary), and run as normal.
 
 ## Pictures
 

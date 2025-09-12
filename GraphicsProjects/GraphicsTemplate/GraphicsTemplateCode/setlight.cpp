@@ -8,6 +8,7 @@ SetPointLight( int ilight, float x, float y, float z,  float r, float g, float b
 	glLightf ( ilight, GL_CONSTANT_ATTENUATION, 1. );
 	glLightf ( ilight, GL_LINEAR_ATTENUATION, 0. );
 	glLightf ( ilight, GL_QUADRATIC_ATTENUATION, 0. );
+	glLightf ( ilight, GL_SPOT_CUTOFF, 180.);
 	glEnable( ilight );
 }
 
